@@ -1,0 +1,17 @@
+# Arquivos de credenciais
+client_secret.json
+token.json
+
+# Arquivos temporários ou de cache
+__pycache__
+logs
+
+# Arquivos relacionados a migração
+folder_migration_errors.json
+content_migration_errors.txt
+migration_errors.txt
+migration_errors.json
+migration.log
+
+# Arquivos de configuração sensíveis
+.env
